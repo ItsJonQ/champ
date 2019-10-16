@@ -1,7 +1,7 @@
 {
   "name": "@itsjonq/champ",
   "version": "0.0.0",
-  "description": "Module generated with Zero",
+  "description": "Champ, slugger, skip, ace... Get one of these names!",
   "main": "dist/index.js",
   "module": "dist/@itsjonq/champ.esm.js",
   "private": false,

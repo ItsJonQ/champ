@@ -2,6 +2,8 @@
 
 > Champ, slugger, skip, ace... Get one of these names!
 
+[![Build Status](https://travis-ci.org/ItsJonQ/champ.svg?branch=master)](https://travis-ci.org/ItsJonQ/champ)
+
 ## Getting Started
 
 Add this module to your project by running:
