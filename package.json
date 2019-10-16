@@ -1,0 +1,34 @@
+{
+  "name": "@itsjonq/champ",
+  "version": "0.0.0",
+  "description": "Module generated with Zero",
+  "main": "dist/index.js",
+  "module": "dist/@itsjonq/champ.esm.js",
+  "private": false,
+  "scripts": {
+    "prestart": "zero prestart",
+    "clean": "rm -rf dist",
+    "build:main": "zero build --no-clean",
+    "bundle:main": "zero bundle --no-clean",
+    "build": "npm run clean && npm run build:main && npm run bundle:main",
+    "lint": "zero lint",
+    "format": "zero format",
+    "test": "zero test",
+    "validate": "zero validate",
+    "release": "zero release",
+    "version": "zero build",
+    "precommit": "zero pre-commit"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@itsjonq/zero": "4.0.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
