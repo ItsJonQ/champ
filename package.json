@@ -1,6 +1,6 @@
 {
   "name": "@itsjonq/champ",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Champ, slugger, skip, ace... Get one of these names!",
   "main": "dist/index.js",
   "module": "dist/@itsjonq/champ.esm.js",
